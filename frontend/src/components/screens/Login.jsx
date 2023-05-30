@@ -140,7 +140,7 @@ function Login() {
                     </div>
                 </div>
                 <div className={styles.right}>
-                    <h1>Sign in to TrendZ</h1>
+                    <h1>Sign in to EventBride</h1>
                     <div className={styles.wrapp}>
                         <ul className={styles.social}>
                             <li>
