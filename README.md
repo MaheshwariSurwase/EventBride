@@ -6,28 +6,38 @@
 
 # Server: Python, Django, Rest-framework, Postgresql
 
-#Run Locally - CLIENT
+# Run Locally - CLIENT
 Go to the project directory
-@ cd Frontent
+
+command :- cd Frontent
+
 Install dependencies
 
- # yarn add
+command :- yarn add
+
 Start the server
-# yarn start
+
+command :- yarn start
  
 # Run Locally - SERVER
+
 Go to the project directory
 
-  #cd Backend
+command :- cd Backend
+
 activate venv
 
 Install dependencies
 
-#pip install -r requirement.txt
+command :- pip install -r requirement.txt
 
 migrate to database
-# python manage.py makemigrations
-# python manage.py migrate
+
+
+#command :- python manage.py makemigrations
+
+command :-  python manage.py migrate
 
 Start the server
-# python manage.py runserver
+
+command :- python manage.py runserver
