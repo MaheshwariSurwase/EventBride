@@ -8,7 +8,7 @@
 
 #Run Locally - CLIENT
 Go to the project directory
-# cd Frontent
+@ cd Frontent
 Install dependencies
 
  # yarn add
