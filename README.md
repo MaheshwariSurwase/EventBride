@@ -1,6 +1,6 @@
 # EventBride
 
-# EventBride - A Social Media Web App usin django, postgresql, react and redux toolkit
+# EventBride - A Web App usin django, postgresql, react and redux toolkit
 
 # Client: React, Redux, Redux toolkit
 
